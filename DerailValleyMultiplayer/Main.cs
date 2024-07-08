@@ -1,9 +1,9 @@
-﻿using System;
-using System.Reflection;
 using HarmonyLib;
+using System;
+using System.Reflection;
 using UnityModManagerNet;
 
-namespace MOD_NAME;
+namespace DerailValleyMultiplayer;
 
 public static class Main
 {

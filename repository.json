@@ -1,9 +1,9 @@
 {
 	"Releases": [
 		{
-			"Id": "MOD_NAME",
+			"Id": "DerailValleyMultiplayer",
 			"Version": "1.0.0",
-			"DownloadUrl": "https://github.com/OWNER/REPOSITORY/releases/download/TAG/FILE_NAME.zip"
+			"DownloadUrl": "https://github.com/Csak-Dominik/DerailValleyMultiplayer/releases/download/TAG/FILE_NAME.zip"
 		}
 	]
 }
